@@ -1,0 +1,1 @@
+{"inputs":["/home/dotnet/project.json","/home/dotnet/project.lock.json","/home/dotnet/Program.cs"],"outputs":["/home/dotnet/bin/Debug/netcoreapp1.0/dotnet.dll","/home/dotnet/bin/Debug/netcoreapp1.0/dotnet.pdb","/home/dotnet/bin/Debug/netcoreapp1.0/dotnet.deps.json","/home/dotnet/bin/Debug/netcoreapp1.0/dotnet.runtimeconfig.json"],"buildArguments":{"version-suffix":null}}
